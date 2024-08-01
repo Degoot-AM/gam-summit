@@ -22,6 +22,92 @@ agenda |>
 
 ## Daily Programme
 
+### Day 1: Epiverse-TRACE phase 2
+
+:::: {.columns}
+::: {.column .daily-prog-col width="50%"}
+
+**Opening ceremony**
+
+_Time:_ 09:00-10:00  
+_Speakers:_  
+_Moderator:_  
+
+
+_Time:_ 10:00-11:00  
+_Speakers:_  
+_Moderator:_  
+
+
+:::
+::: {.column .daily-prog-col4 width="50%"}
+
+**Phase 2 implementation planning**
+
+_Time:_ 11:30-12:00  
+_Speakers:_  
+_Moderator:_  
+
+
+_Time:_ 12:10-12:50  
+_Speakers:_  
+_Moderator:_  
+
+
+:::
+::::
+
+
+:::: {.columns}
+::: {.column .daily-prog-col3 width="50%"}
+
+**RSE session**
+    
+_Time:_ 15:00-17:00  
+_Activities:_  
+ 
+
+:::
+::: {.column .daily-prog-col2 width="50%"}
+
+**Dinner**
+
+_Time:_ 19:30-21:00  
+_Venue:_  
+
+
+:::
+::::
+
+<!-- ::: {.grid} -->
+
+<!-- ::: {.g-col-6} -->
+
+<!-- ##  <span style="color:#AEC800;">2024-12-26 [09:00 - 10:00]</span> -->
+
+<!-- Opening ceremony -->
+
+<!-- Speakers: -->
+
+<!-- Moderator: -->
+<!-- ::: -->
+
+<!-- ::: {.g-col-6} -->
+
+<!-- ## 2024-12-26 [10:00 - 11:00] -->
+
+<!-- launching of phase 2 -->
+
+<!-- Speakers: -->
+
+<!-- Moderator: -->
+
+<!-- ::: -->
+
+<!-- :::   -->
+
+
+
 ## Sub-topics proposed in preparation meetings
 
 * Sustainability:
