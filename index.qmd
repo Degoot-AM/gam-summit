@@ -28,7 +28,7 @@ Together with groups working on processing and analysis pipelines, the organisat
 2. _Identifying the challenges and questions during outbreaks_,
 3. _Building collaboration and pipelines_.
 
-The details of the outcomes from these three days discussions are summarised [here]()
+The details of the outcomes from these three days discussions are summarised in this [blogpost](https://epiverse-trace.github.io/posts/100days-workshop/index.html).
 
 :::
 :::
