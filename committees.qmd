@@ -14,7 +14,7 @@ This summit is prepared by four organising committees:
 The table below lists the members of these committees
 
 | Person               | Affiliation |                LOC |        TPC         | TC                 | LC                 |
-|:------------------|:---------:|----------:|:---------:|:----------|:----------|
+|:---------------------|:-----------:|-------------------:|:------------------:|:-------------------|:-------------------|
 | Bankole Ahadzie      |    MRCG     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | \-                 |
 | James Azam           |    LSHTM    |                 \- |         \-         | :heavy_check_mark: | \-                 |
 | Bubacarr Bah         |    MRCG     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | \-                 |
