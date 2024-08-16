@@ -8,7 +8,7 @@ format: dashboard
 
 ### Monday
 
-**Openning ceremony and Phase 2 of Epiverse-TRACE**
+**Openning ceremony and launch of phase 2 of Epiverse-TRACE**
 
 
 Will focus on presenting the project objectives, particularly the planning for its second phase. Project members will have the opportunity to discuss and review the draft planning document prepared by the PIs. 
@@ -81,11 +81,13 @@ day_2_agenda |>
 
 ### Wednesday
 
-site seeing - include images
+Kayaking through The Gambia River 
+
+![](/images/Generic5.jpg)
 
 ### Thursday
 
-**Epiverse-TRACE tools beyond infectious diseases**
+**Adoption of Epiverse-TRACE for small-scale outbreaks, NTDs, one health, and disease surveillance**
 
 These sessions  focused on how the Epiverse-TRACE analytical tools can be applied beyond infectious diseases. Discussions will cover their usage in context of small-scale local outbreaks, neglected tropical diseases (__NTDs__), one health perspectives, and in disease surveillance.
 
