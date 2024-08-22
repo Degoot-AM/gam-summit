@@ -1,5 +1,6 @@
 ---
 tbl-cap-location: bottom
+tbl-colwidths: [35,65]
 ---
 
 ## Outbreak analytics with R - course {#pre-summit-training}
@@ -12,9 +13,9 @@ tbl-cap-location: bottom
 
 ### Overview:
 
-This week-long in-person workshop provide a practical introduction to outbreak data analysis using R packages developed by the Epiverse-TRACE initiative..
+This week-long in-person workshop provide a practical introduction to outbreak data analysis using R packages developed by the Epiverse-TRACE initiative.
 
-Fill out this [form to apply](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=09a01e121b9447dbbec65057eece25af&id=oaKtcild7U6xlPh0V3cUnuJi79dolFdJoZ1qVAcSQu9UMVNUTzdEWk9CNTJMNFZNQlM2UlQ4UDNHVi4u) for this training. Application deadline is **Friday 27th September**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymity forms in Epiverse-TRACE outreach reports. If you have any other questions about the training, please send an email to [andree.valle-campos\@lshtm.ac.uk]() or [lshad35\@lshtm.ac.uk]().
+Fill out this [form to apply](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=09a01e121b9447dbbec65057eece25af&id=oaKtcild7U6xlPh0V3cUnuJi79dolFdJoZ1qVAcSQu9UMVNUTzdEWk9CNTJMNFZNQlM2UlQ4UDNHVi4u) for this training. Application deadline is **Friday 27th September**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymised form in Epiverse-TRACE outreach reports. If you have questions about the training, please send an email to [andree.valle-campos\@lshtm.ac.uk]() or [lshad35\@lshtm.ac.uk]().
 
 ## Course content
 
@@ -39,7 +40,7 @@ Fill out this [form to apply](https://forms.office.com/Pages/DesignPageV2.aspx?s
 
 ### Day 4
 
--   What are the delay distributions and what is their usage on outbreak analytics?
+-   What are the delay distributions and what is their usage in outbreak analytics?
 -   How to access delay distributions from a literature search database?
 -   How can I estimate key transmission metrics from a time series of case data?
 -   How do I account for incomplete reporting in forecasts?
@@ -65,12 +66,11 @@ Fill out this [form to apply](https://forms.office.com/Pages/DesignPageV2.aspx?s
 |  Friday 29 June (9:30 - 12:30)   | Forecast of cases and estimate outbreak severity                                   |
 |  Friday 29 June (2:00 - 17:00)   | Estimate superspreading and simulate transmission chain                            |
 
-: Course schedule {.striped .hover}
 
 ## Prerequisites
 
-Attendees will need to work on their own laptops. We expect participants to have some exposure to basic statistical, mathematical and epidemic theory concepts, but NOT necessarily familiarity with analytics or modelling. This workshop requires you to be familiar with:
+Attendees will be using their own laptops. We expect participants to have some exposure to basic statistical, mathematical and epidemic theory concepts, but NOT necessarily familiarity with analytics or modelling. This workshop requires you to be familiar with:
 
 -   **Data science**: Some basic familiarity with R software
 -   **Statistics**: Familiarity with common probability distributions, such as the Normal, Gamma, Log normal, and Negative binomial distributions.
--   **Epidemic theory**: Familiarity with common epidemiological parameters, such as the incubation period, generation time, and serial interval, and metrics such as the reproduction number.
+-   **Epidemic theory**: Familiarity with common epidemiological parameters, such as the incubation period, generation time, serial interval, and metrics such as the reproduction number.
