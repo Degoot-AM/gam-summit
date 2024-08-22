@@ -8,7 +8,7 @@ format: dashboard
 
 ### Monday
 
-**Epiverse-TRACE perspectives**
+**Epiverse-TRACE perspectives**  
 
 Day 1 will be focused on the presentation of the project perspectives, particularly the planning for its second phase. Attendees will have the opportunity to discuss and review the draft planning document prepared by the PIs.
 
@@ -42,7 +42,7 @@ day_1_agenda |>
 
 ### Tuesday
 
-**Inclusivity and sustainability of Epiverse-TRACE tools**
+**Inclusivity and sustainability of Epiverse-TRACE tools**  
 
 Day 2 aims at evaluating phase 1 of the project and discussing the inclusivity and sustainability of the project tools.
 
@@ -77,7 +77,7 @@ day_2_agenda <- data.frame(
 day_2_agenda |>
   kableExtra::kbl() |>
   kableExtra::kable_paper("striped", font_size = 18, full_width = TRUE) |>
-  kableExtra::row_spec(c(3, 6, 7), color = 'white', background = 'black')
+  kableExtra::row_spec(c(3, 5, 7), color = 'white', background = 'black')
 ```
 
 ### Wednesday
@@ -88,9 +88,9 @@ Kayaking through The Gambia River
 
 ### Thursday
 
-**Adoption of Epiverse-TRACE for small-scale outbreaks, NTDs, one health, and disease surveillance**
+**Adoption of Epiverse-TRACE for small-scale outbreaks, NTDs, one health, and disease surveillance**  
 
-These sessions will focus on how the Epiverse-TRACE analytics tools can be applied beyond the most “alarming” infectious diseases. Discussions will cover their usage in context of small-scale local outbreaks, neglected tropical diseases (NTDs), one health perspectives, and in disease surveillance.
+The sessions on this day will be focused on how the Epiverse-TRACE analytics tools can be applied beyond the most “alarming” infectious diseases. Discussions will cover their usage in the context of small-scale local outbreaks, neglected tropical diseases (NTDs), one health perspectives, and in disease surveillance.
 
 **objectives**:
 
@@ -105,9 +105,9 @@ These sessions will focus on how the Epiverse-TRACE analytics tools can be appli
 
 **Moderators**:
 
-Natalia Niño,  
 Bubacarr Bah,  
-Adam Kucharski
+Adam Kucharski  
+Natalia Niño,  
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
@@ -125,9 +125,9 @@ day_5_agenda |>
 
 ### Friday
 
-**Outbreak analytics course and related gaps**
+**Outbreak analytics course and related gaps**  
 
-On this last day, participants will focus on how to design a data-centered outbreak analytics course aimed at training and teaching outbreak analysis. It will also reflect on the lessons learnt from previous training and identify current gaps within the project and explore ways to overcome them.
+On this last day, participants will bring in their thoughts on how to design a data-centered outbreak analytics course aimed at training and teaching outbreak analysis. It will also reflect on the lessons learnt from previous training and identify current gaps within the project and explore ways to overcome them.
 
 **Objectives**:
 
@@ -136,7 +136,7 @@ On this last day, participants will focus on how to design a data-centered outbr
 
 **Expected outcomes**:
 
--   Draft Course Framework: A preliminary framework for the outbreak analytics course, including key topics, teaching methods, and assessment strategies.
+-   Draft course framework: A preliminary framework for the outbreak analytics course, including key topics, teaching methods, and assessment strategies.
 -   Plans to address the gaps, with specific implementation steps
 
 **Moderators**:
@@ -148,13 +148,13 @@ Diana
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
 day_4_agenda <- data.frame(
-  Time = c("09:00-11:00", "11:00-11:30", "11:30-12:00", "12:00-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Designing outbreak analytics course", "Coffee break", "Closing Remarks", "Unit Seminar", "Lunch", " ", "Dinner"),
-  Speakers = c("Group discussion", "", "Bubacarr", "PI", "", "", "")
+  Time = c("09:00-11:00", "11:00-11:30", "11:30-12:00", "12:00-13:00", "13:00-15:00", "19:00-21:00"),
+  Activity = c("Designing outbreak analytics course", "Coffee break", "Closing Remarks", "Unit Seminar", "Lunch", "Dinner"),
+  Speakers = c("Group discussion", "", "Bubacarr", "PI", "", "")
 )
 
 day_4_agenda |>
   kableExtra::kbl() |>
   kableExtra::kable_paper("striped", font_size = 18, full_width = TRUE) |>
-  kableExtra::row_spec(c(3, 6, 7), color = 'white', background = 'black')
+  kableExtra::row_spec(c(3, 5, 6), color = 'white', background = 'black')
 ```
