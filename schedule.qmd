@@ -8,7 +8,7 @@ format: dashboard
 
 ### Monday
 
-**Epiverse-TRACE perspectives**  
+**Epiverse-TRACE perspectives**
 
 Day 1 will be focused on the presentation of the project perspectives, particularly the planning for its second phase. Attendees will have the opportunity to discuss and review the draft planning document prepared by the PIs.
 
@@ -23,7 +23,7 @@ Day 1 will be focused on the presentation of the project perspectives, particula
 
 **moderators**:
 
-Bubacarr Bah  
+Bubacarr Bah\
 Diana Fajardo Pulido
 
 ```{r eval=TRUE, echo = FALSE}
@@ -42,7 +42,7 @@ day_1_agenda |>
 
 ### Tuesday
 
-**Inclusivity and sustainability of Epiverse-TRACE tools**  
+**Inclusivity and sustainability of Epiverse-TRACE tools**
 
 Day 2 aims at evaluating phase 1 of the project and discussing the inclusivity and sustainability of the project tools.
 
@@ -64,7 +64,7 @@ Day 2 aims at evaluating phase 1 of the project and discussing the inclusivity a
 
 **Moderators:**
 
-Nuredin Mohammed,  
+Nuredin Mohammed,\
 Data.org (TBC)
 
 ```{r eval=TRUE, echo = FALSE}
@@ -88,7 +88,7 @@ Kayaking through The Gambia River
 
 ### Thursday
 
-**Adoption of Epiverse-TRACE for small-scale outbreaks, NTDs, one health, and disease surveillance**  
+**Adoption of Epiverse-TRACE for small-scale outbreaks, NTDs, one health, and disease surveillance**
 
 The sessions on this day will be focused on how the Epiverse-TRACE analytics tools can be applied beyond the most “alarming” infectious diseases. Discussions will cover their usage in the context of small-scale local outbreaks, neglected tropical diseases (NTDs), one health perspectives, and in disease surveillance.
 
@@ -105,9 +105,9 @@ The sessions on this day will be focused on how the Epiverse-TRACE analytics too
 
 **Moderators**:
 
-Bubacarr Bah,  
-Adam Kucharski  
-Natalia Niño,  
+Bubacarr Bah,\
+Adam Kucharski\
+Natalia Niño,
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
@@ -125,7 +125,7 @@ day_5_agenda |>
 
 ### Friday
 
-**Outbreak analytics course and related gaps**  
+**Outbreak analytics course and related gaps**
 
 On this last day, participants will bring in their thoughts on how to design a data-centered outbreak analytics course aimed at training and teaching outbreak analysis. It will also reflect on the lessons learnt from previous training and identify current gaps within the project and explore ways to overcome them.
 
@@ -141,8 +141,8 @@ On this last day, participants will bring in their thoughts on how to design a d
 
 **Moderators**:
 
-Andree,  
-Degoot,  
+Andree,\
+Degoot,\
 Diana
 
 ```{r eval=TRUE, echo = FALSE}
