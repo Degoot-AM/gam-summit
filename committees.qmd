@@ -14,7 +14,7 @@ This summit is prepared by four organising committees:
 The table below lists the members of these committees
 
 | Person               | Affiliation |                LOC |        TPC         | TC                 | LC                 |
-|:---------------------|:-----------:|-------------------:|:------------------:|:-------------------|:-------------------|
+|:-----------|:----------:|-----------:|:----------:|:-----------|:-----------|
 | Bankole Ahadzie      |    MRCG     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | \-                 |
 | James Azam           |    LSHTM    |                 \- |         \-         | :heavy_check_mark: | \-                 |
 | Bubacarr Bah         |    MRCG     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | \-                 |
@@ -25,7 +25,7 @@ The table below lists the members of these committees
 | Adam Kucharski       |    LSHTM    |                 \- | :heavy_check_mark: | \-                 | \-                 |
 | Atta Lowe            |    MRCG     | :heavy_check_mark: |         \-         | \-                 | \-                 |
 | Joshua Lambert       |    LSHTM    |                 \- |         \-         | :heavy_check_mark: | \-                 |
-| Karim Mane           |    MRCG     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | \-                 |
+| Karim Mané           |    MRCG     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | \-                 |
 | Nuredin Mohammed     |    MRCG     | :heavy_check_mark: | :heavy_check_mark: | \-                 | \-                 |
 | Maguette Ndong       |  Data.org   |                 \- | :heavy_check_mark: | \-                 | \-                 |
 | Natalia Niño         |  UniAndes   |                 \- | :heavy_check_mark: | \-                 | \-                 |
