@@ -82,22 +82,46 @@ day_2_agenda |>
 
 ### Wednesday
 
+**Site Visits**
+
+Day 3 aims at Understanding the significance of historical sites,
+cultural landmarks, or natural wonders.
+
+**Objectives:**
+
+-   Learning about history and culture:
+Understanding the significance of historical sites, cultural landmarks, or natural wonders.
+-   Experiencing new things: Stepping outside of one's comfort zone and trying new activities.
+-   Relaxation and stress relief: Enjoying leisure activities and escaping from daily routines.
+-   Connecting with others: Meeting new people and forming relationships.
+-   Sharing experiences: Bonding with friends and family through shared activities.
+
+**Expected outcomes:**
+
+-   Identification of:
+    -   Increased knowledge and understanding of historical, cultural, or natural sites.
+    -   Enhanced appreciation for different cultures, traditions, and perspectives.
+    -   Improved mental and physical health through relaxation and stress reduction.
+-   Increased sense of belonging to a community or group.
+
+**Guiders:**
+
+Bubacarr Bah & Gibril Gabbidon
+
+```{r eval=TRUE, echo = FALSE}
+#| classes: plain
+day_3_agenda <- data.frame(
+  Time = c("09:00-11:30", "11:30-13:30", "13:30-15:00", "15:00-17:00", "19:00-21:00"),
+  Activity = c("Kayaking", "Visit to Snake Farm", "Lunch Break", "Boat Ride at Kartong", "Dinner"),
+  Place = c("Tanji", "Kartong", "", "Kartong", "")
+)
+day_3_agenda |>
+  kableExtra::kbl() |>
+  kableExtra::kable_paper("striped", font_size = 18, full_width = TRUE) |>
+  kableExtra::row_spec(c(3, 5), color = 'white', background = 'black')
+```
 
 
-:::: {.columns}
-::: {.column width="33%"}
-![](./images/banjul.webp){width=1000px}
-Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word   provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
-:::
-::: {.column width="33%"}
-![](./images/banjul.webp)
-Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word   provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
-:::
-::: {.column width="34%"}
-![](./images/banjul.webp)
-Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word   provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
-:::
-::::
 
 
 ### Thursday
