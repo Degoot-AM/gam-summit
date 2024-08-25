@@ -23,7 +23,7 @@ Day 1 will be focused on the presentation of the project perspectives, particula
 
 **moderators**:
 
-Bubacarr Bah  
+Bubacarr Bah\
 Diana Fajardo Pulido
 
 ```{r eval=TRUE, echo = FALSE}
@@ -64,7 +64,7 @@ Day 2 aims at evaluating phase 1 of the project and discussing the inclusivity a
 
 **Moderators:**
 
-Nuredin Mohammed,  
+Nuredin Mohammed,\
 Data.org (TBC)
 
 ```{r eval=TRUE, echo = FALSE}
@@ -82,9 +82,23 @@ day_2_agenda |>
 
 ### Wednesday
 
-Kayaking through The Gambia River
 
-![](/images/Generic5.jpg)
+
+:::: {.columns}
+::: {.column width="33%"}
+![](./images/banjul.webp){width=1000px}
+Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word   provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
+:::
+::: {.column width="33%"}
+![](./images/banjul.webp)
+Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word   provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
+:::
+::: {.column width="34%"}
+![](./images/banjul.webp)
+Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word   provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
+:::
+::::
+
 
 ### Thursday
 
@@ -105,8 +119,8 @@ These sessions will focus on how the Epiverse-TRACE analytics tools can be appli
 
 **Moderators**:
 
-Natalia Niño,  
-Bubacarr Bah,  
+Natalia Niño,\
+Bubacarr Bah,\
 Adam Kucharski
 
 ```{r eval=TRUE, echo = FALSE}
@@ -141,8 +155,8 @@ On this last day, participants will focus on how to design a data-centered outbr
 
 **Moderators**:
 
-Andree,  
-Degoot,  
+Andree,\
+Degoot,\
 Diana
 
 ```{r eval=TRUE, echo = FALSE}

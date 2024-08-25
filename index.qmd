@@ -13,7 +13,7 @@ Organising committees from the Epiverse team have developed the summit's program
 ### Collaborative Software Development Ecosystem for Public Health
 
 ::: columns
-::: {.column width="60%"}
+::: {.column width="55%"}
 The second Epiverse-TRACE summit was held in **Bogota, Colombia**, between the 26th and 29th of June 2023. The participants were given the opportunity to bring their thoughts on the following topics:
 
 1.  *Collaborative Software Development*,
@@ -27,6 +27,10 @@ The second Epiverse-TRACE summit was held in **Bogota, Colombia**, between the 2
 The outcomes from these fruitful discussions are summarised in the [report](https://zenodo.org/records/10932686) published by the TRACE-LAC team in Colombia.
 :::
 
+::: {.column width="5%"}
+
+:::
+
 ::: {.column width="40%"}
 ![](./images/team_engage.JPG){fig-align="center" width="100%" height="100%"}
 :::
@@ -38,7 +42,7 @@ The outcomes from these fruitful discussions are summarised in the [report](http
 
 ::: columns
 ::: {.column width="40%"}
-![](./images/lshtm-logo.png){fig-align="center" width="100%" height="100%"}
+![](./images/lshtm_logo2.png){fig-align="center" width="100%"}
 :::
 
 ::: {.column width="60%"}
