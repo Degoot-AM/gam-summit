@@ -23,8 +23,7 @@ Day 1 will be focused on the presentation of the project perspectives, particula
 
 **moderators**:
 
-Bubacarr Bah\
-Diana Fajardo Pulido
+Bubacarr Bah & Diana Fajardo Pulido
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
@@ -64,8 +63,7 @@ Day 2 aims at evaluating phase 1 of the project and discussing the inclusivity a
 
 **Moderators:**
 
-Nuredin Mohammed,\
-Data.org (TBC)
+Nuredin Mohammed & Data.org (TBC)
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
@@ -84,42 +82,37 @@ day_2_agenda |>
 
 **Site Visits**
 
-Day 3 aims at Understanding the significance of historical sites,
-cultural landmarks, or natural wonders.
+The whole of day 3 is dedicated to site visiting, recreation and understanding the significance of historical sites, cultural landmarks, and natural wonders.
 
 **Objectives:**
 
--   Learning about history and culture:
-Understanding the significance of historical sites, cultural landmarks, or natural wonders.
--   Experiencing new things: Stepping outside of one's comfort zone and trying new activities.
+-   Learning about history and culture: Grasping the importance of historical sites, cultural landmarks, and natural wonders
+-   Connecting with others: Forming relationship and meeting new people.
+-   Sharing experiences: Bonding with team members and friends through shared activities.
 -   Relaxation and stress relief: Enjoying leisure activities and escaping from daily routines.
--   Connecting with others: Meeting new people and forming relationships.
--   Sharing experiences: Bonding with friends and family through shared activities.
+
 
 **Expected outcomes:**
 
--   Identification of:
-    -   Increased knowledge and understanding of historical, cultural, or natural sites.
-    -   Enhanced appreciation for different cultures, traditions, and perspectives.
+-  The site visits would yield several positive outcomes, including:.
+    -   Increased knowledge and enhanced appreciation for different cultures, traditions, and perspectives.
     -   Improved mental and physical health through relaxation and stress reduction.
--   Increased sense of belonging to a community or group.
+    -   Recreational activities such as hiking provide physical exercise and recreational satisfaction
+    -   Increased sense of belonging to the community or group.
 
 **Guiders:**
 
 Bubacarr Bah & Gibril Gabbidon
 
-```{r eval=TRUE, echo = FALSE}
-#| classes: plain
-day_3_agenda <- data.frame(
-  Time = c("09:00-11:30", "11:30-13:30", "13:30-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Kayaking", "Visit to Snake Farm", "Lunch Break", "Boat Ride at Kartong", "Dinner"),
-  Place = c("Tanji", "Kartong", "", "Kartong", "")
-)
-day_3_agenda |>
-  kableExtra::kbl() |>
-  kableExtra::kable_paper("striped", font_size = 18, full_width = TRUE) |>
-  kableExtra::row_spec(c(3, 5), color = 'white', background = 'black')
-```
+
+#### Column
+
+![](./images/kayaking.webp){fig-align="center" width="100%"}
+
+![](./images/park.jpg){fig-align="center" width="%"}
+![](./images/boat_riding.jpg){fig-align="center" width="100%"}
+
+
 
 
 
@@ -143,9 +136,7 @@ These sessions will focus on how the Epiverse-TRACE analytics tools can be appli
 
 **Moderators**:
 
-Natalia Niño,\
-Bubacarr Bah,\
-Adam Kucharski
+Natalia Niño, Bubacarr Bah & Adam Kucharski
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
@@ -179,9 +170,7 @@ On this last day, participants will focus on how to design a data-centered outbr
 
 **Moderators**:
 
-Andree,\
-Degoot,\
-Diana
+Andree, Degoot & Diana
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
