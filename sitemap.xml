@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://epiverse-trace.github.io/gam-summit/venue.html</loc>
-    <lastmod>2024-08-12T08:55:27.377Z</lastmod>
-  </url>
-  <url>
-    <loc>https://epiverse-trace.github.io/gam-summit/contact.html</loc>
+    <loc>https://epiverse-trace.github.io/gam-summit/accommodation.html</loc>
     <lastmod>2024-08-12T08:55:27.017Z</lastmod>
-  </url>
-  <url>
-    <loc>https://epiverse-trace.github.io/gam-summit/information.html</loc>
-    <lastmod>2024-08-12T08:55:27.377Z</lastmod>
-  </url>
-  <url>
-    <loc>https://epiverse-trace.github.io/gam-summit/committees.html</loc>
-    <lastmod>2024-08-12T08:55:27.017Z</lastmod>
-  </url>
-  <url>
-    <loc>https://epiverse-trace.github.io/gam-summit/schedule.html</loc>
-    <lastmod>2024-08-12T08:55:27.377Z</lastmod>
-  </url>
-  <url>
-    <loc>https://epiverse-trace.github.io/gam-summit/index.html</loc>
-    <lastmod>2024-08-12T08:55:27.377Z</lastmod>
-  </url>
-  <url>
-    <loc>https://epiverse-trace.github.io/gam-summit/visa.html</loc>
-    <lastmod>2024-08-12T08:55:27.377Z</lastmod>
   </url>
   <url>
     <loc>https://epiverse-trace.github.io/gam-summit/pre-training.html</loc>
-    <lastmod>2024-08-12T08:55:27.377Z</lastmod>
+    <lastmod>2024-08-28T11:40:14.262Z</lastmod>
   </url>
   <url>
-    <loc>https://epiverse-trace.github.io/gam-summit/accommodation.html</loc>
-    <lastmod>2024-08-12T08:55:27.017Z</lastmod>
+    <loc>https://epiverse-trace.github.io/gam-summit/committees.html</loc>
+    <lastmod>2024-08-28T11:40:14.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://epiverse-trace.github.io/gam-summit/schedule.html</loc>
+    <lastmod>2024-08-28T11:40:14.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://epiverse-trace.github.io/gam-summit/index.html</loc>
+    <lastmod>2024-08-28T11:40:14.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://epiverse-trace.github.io/gam-summit/visa.html</loc>
+    <lastmod>2024-08-28T11:40:14.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://epiverse-trace.github.io/gam-summit/contact.html</loc>
+    <lastmod>2024-08-28T11:40:14.239Z</lastmod>
   </url>
 </urlset>
