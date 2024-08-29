@@ -1,5 +1,5 @@
 ---
-title: "Organising committees"
+title: "Organising Committees"
 tbl-cap-location: bottom
 from: markdown+emoji
 ---

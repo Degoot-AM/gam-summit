@@ -48,24 +48,23 @@ Fill out this [form to apply](https://forms.office.com/Pages/DesignPageV2.aspx?s
 ### Day 5
 
 -   How to estimate the case fatality ratio (CFR) and adjust for common biases?
--   How can we estimate individual-level variation in transmission (i.e. superspreading potential)?
+-   How can we estimate individual-level variation in transmission (i.e. super-spreading potential)?
 -   How can we simulate transmission chains based on infection characteristics?
 
 ## Timetable
 
-|          Date and time           | Topic                                                                              |
-|:-------------------:|:--------------------------------------------------|
-|  Monday 25 June (9:30 - 12:30)   | A refresher on the basics of R: data input, data Subsetting, and data manipulation |
-|  Monday 25 June (2:00 - 17:00)   | A refresher on the basics of R: functions, visualization, and statistics           |
-|  Tuesday 26 June (9:30 - 12:30)  | Simulate disease spread                                                            |
-|  Tuesday 26 June (2:00 - 17:00)  | Simulate disease transmission with interventions                                   |
-| Wednesday 27 June (9:30 - 12:30) | Read, clean, and standardize outbreak case data                                    |
-| Wednesday 27 June (2:00 - 17:00) | Validate, aggregate and visualize outbreak case data                               |
-| Thursday 28 June (9:30 - 12:30)  | A primer on delay distributions and their usage in outbreak analytics              |
-| Thursday 28 June (2:00 - 17:00)  | Access epidemiological parameters and estimate transmission metrics                |
+|           Date and time           | Topic                                                                              |
+|:----------------------:|:-----------------------------------------------|
+|  Monday 25 June (9:30 - 12:30)   | A refresher on the basics of R: data input, data subsetting, and data manipulation |
+|  Monday 25 June (14:00 - 17:00)   | A refresher on the basics of R: functions, visualization, and statistics           |
+|  Tuesday 26 June (9:30 - 12:30)   | Simulate disease spread                                                            |
+|  Tuesday 26 June (14:00 - 17:00)  | Simulate disease transmission with interventions                                   |
+|  Wednesday 27 June (9:30 - 12:30)  | Read, clean, and standardize outbreak case data                                    |
+|  Wednesday 27 June (14:00 - 17:00) | Validate, aggregate and visualize outbreak case data                               |
+|  Thursday 28 June (9:30 - 12:30)  | A primer on delay distributions and their usage in outbreak analytics              |
+|  Thursday 28 June (14:00 - 17:00)  | Access epidemiological parameters and estimate transmission metrics                |
 |  Friday 29 June (9:30 - 12:30)   | Forecast of cases and estimate outbreak severity                                   |
-|  Friday 29 June (2:00 - 17:00)   | Estimate superspreading and simulate transmission chain                            |
-
+|  Friday 29 June (14:00 - 17:00)   | Estimate super spreading and simulate transmission chain                           |
 
 ## Prerequisites
 
