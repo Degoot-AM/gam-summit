@@ -8,8 +8,6 @@ Every year, the Epiverse-TRACE team members, along with invited stakeholders fro
 
 The organising committees of this event, composed of members from the different Epiverse teams, have developed the summit's program to ensure the success of the event. This includes a pre-summit training session happening a week before the summit (25 - 29 November 2024). The training will be conducted by our team of research fellows, supported by Research Software Engineers (RSEs). Participants will learn how to use our tools within an outbreak analysis workflow.
 
-
-
 ## Previous Summits {.unnumbered .unlisted}
 
 ### Collaborative Software Development Ecosystem for Public Health
@@ -30,7 +28,6 @@ The outcomes from these fruitful discussions are summarised in the [report](http
 :::
 
 ::: {.column width="5%"}
-
 :::
 
 ::: {.column width="40%"}
