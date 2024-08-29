@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "accommodation.html",
-    "href": "accommodation.html",
-    "title": "Accommodation",
+    "objectID": "visa.html",
+    "href": "visa.html",
+    "title": "Travel and Visas",
     "section": "",
-    "text": "To facilitate the participation of attendees, the Epiverse-TRACE 2024 Summit Local Organising Committee is pleased to offer a dedicated accommodation option reserved for attendees coming from abroad at the Majula Boutique Hotel. Once your attendance is confirmed, you can book a stay at this modern, newly-built facility. Conveniently located directly opposite and only a few footsteps away from the MRC unit in Fajara (the summit venue), the hotel features views of this beautiful city on three sides and a rooftop terrace. All rooms equiped with a private bathroom, air conditioning, and fast, free Wi-Fi."
+    "text": "Travel and Visas\nTo check whether you need a visa to enter The Gambia, visit the Visa to The Gambia page. Other relevant information about entering The Gambia can be found in this page.\nAttendees (invited or from the TRACE team) living outside The Gambia are encouraged to fill out this form to benefit from the support of our logistics committee.\nSummit participants requiring a visa letter or any form of travel-related documentation, can send a request to traveldesk@mrc.gm. Please note that only individuals who have registered for the event will be eligible to receive a visa letter from the organising committee.\n\n\nVenue\nThe summit will take place at the MRCG unit at the LSHTM in Fajara, Banjul. Spanning approximately 100 acres, the unit offers a modern, fully-equipped venue in the heart of Fajara. This convenient location is near various attractions, transport facilities, and accommodations that cater to all preferences.\n\n\n\n\nAccommodation\nTo facilitate the participation of attendees, the Epiverse-TRACE 2024 summit local organising committee is pleased to offer a dedicated accommodation option at the Majula Boutique Hotel. Once your attendance is confirmed, you can book a stay at this modern, newly-built facility. Conveniently located directly opposite and only a few footsteps away from the MRCG unit in Fajara (the summit venue), the hotel features views of this beautiful city on three sides and a rooftop terrace. All rooms are equipped with a private bathroom, air conditioning, and fast, free Wi-Fi."
   },
   {
     "objectID": "pre-training.html",
@@ -42,6 +42,20 @@
     "text": "Prerequisites\nAttendees will be using their own laptops. We expect participants to have some exposure to basic statistical, mathematical and epidemic theory concepts, but NOT necessarily familiarity with analytics or modelling. This workshop requires you to be familiar with:\n\nData science: Some basic familiarity with R software\nStatistics: Familiarity with common probability distributions, such as the Normal, Gamma, Log normal, and Negative binomial distributions.\nEpidemic theory: Familiarity with common epidemiological parameters, such as the incubation period, generation time, serial interval, and metrics such as the reproduction number."
   },
   {
+    "objectID": "accommodation.html",
+    "href": "accommodation.html",
+    "title": "Accommodation",
+    "section": "",
+    "text": "To facilitate the participation of attendees, the Epiverse-TRACE 2024 Summit Local Organising Committee is pleased to offer a dedicated accommodation option reserved for attendees coming from abroad at the Majula Boutique Hotel. Once your attendance is confirmed, you can book a stay at this modern, newly-built facility. Conveniently located directly opposite and only a few footsteps away from the MRC unit in Fajara (the summit venue), the hotel features views of this beautiful city on three sides and a rooftop terrace. All rooms equiped with a private bathroom, air conditioning, and fast, free Wi-Fi."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "For more information about the summit, please feel free to contact:\n\nBubacarr Bah\n\n☎️ Phone : (220) 280 8473\n📧 Email: bubacarr.bah1@lshtm.ac.uk\n\n\nFor information about the pre-summit training course, contact:\n\nAbdoelnaser Degoot\n\n☎️ Phone: (220) 758 6280\n📧 Email: abdoelnaser-mahmood.degoot@lshtm.ac.uk\n\nAndree Valle Campos\n\n☎️ Phone:\n📧 Email: andree.valle-campos@lshtm.ac.uk\n\n\nInquiries about logistics should be sent to:\n\nGibbril Gabbidon\n\n☎️ Phone: (220) 725 3921\n📧 Email: gibril.gabbidon@lshtm.ac.uk"
+  },
+  {
     "objectID": "committees.html",
     "href": "committees.html",
     "title": "Organising committees",
@@ -61,19 +75,5 @@
     "title": "Strengthening Sustainable and Inclusive Analytics Ecosystem for Epidemic Preparedness",
     "section": "",
     "text": "The second Epiverse-TRACE summit was held in Bogota, Colombia, between the 26th and 29th of June 2023. The participants were given the opportunity to bring their thoughts on the following topics:\n\nCollaborative Software Development,\nBuilding a community of users,\nBuilding RSE & Data Science teams,\nTRACE in the Global Perspective.\n\nThe outcomes from these fruitful discussions are summarised in the report published by the TRACE-LAC team in Colombia.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe first Epiverse-TRACE summit was held in London, UK, between the 12th and 14th of December 2022. The event was organised in the form of a workshop around a central question: “What should the first 100 lines of code written during new epidemics look like?”. Together with groups working on processing and analysis pipelines, the organisations working on the front-line response and generating data looked into the challenges around building efficient and centralised analysis pipelines. The main topics included:\n\nSharing experiences of outbreak responses,\nIdentifying the challenges and questions during outbreaks,\nBuilding collaboration and pipelines.\n\nThe details of the outcomes from these three-day discussions are summarised in this blog post."
-  },
-  {
-    "objectID": "visa.html",
-    "href": "visa.html",
-    "title": "Travel and Visas",
-    "section": "",
-    "text": "Travel and Visas\nTo check whether you need a visa to enter The Gambia, visit the Visa to The Gambia page. Other relevant information about entering The Gambia can be found in this page.\nAttendees (invited or from the TRACE team) living outside The Gambia are encouraged to fill out this form to benefit from the support of our logistics committee.\nSummit participants requiring a visa letter or any form of travel-related documentation, can send a request to traveldesk@mrc.gm. Please note that only individuals who have registered for the event will be eligible to receive a visa letter from the organising committee.\n\n\nVenue\nThe summit will take place at the MRCG unit at the LSHTM in Fajara, Banjul. Spanning approximately 100 acres, the unit offers a modern, fully-equipped venue in the heart of Fajara. This convenient location is near various attractions, transport facilities, and accommodations that cater to all preferences.\n\n\n\n\nAccommodation\nTo facilitate the participation of attendees, the Epiverse-TRACE 2024 summit local organising committee is pleased to offer a dedicated accommodation option at the Majula Boutique Hotel. Once your attendance is confirmed, you can book a stay at this modern, newly-built facility. Conveniently located directly opposite and only a few footsteps away from the MRCG unit in Fajara (the summit venue), the hotel features views of this beautiful city on three sides and a rooftop terrace. All rooms are equipped with a private bathroom, air conditioning, and fast, free Wi-Fi."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "For more information about the summit, please feel free to contact:\n\nBubacarr Bah\n\n☎️ Phone : (220) 280 8473\n📧 Email: bubacarr.bah1@lshtm.ac.uk\n\n\nFor information about the pre-summit training course, contact:\n\nAbdoelnaser Degoot\n\n☎️ Phone: (220) 758 6280\n📧 Email: abdoelnaser-mahmood.degoot@lshtm.ac.uk\n\nAndree Valle Campos\n\n☎️ Phone:\n📧 Email: andree.valle-campos@lshtm.ac.uk\n\n\nInquiries about logistics should be sent to:\n\nGibbril Gabbidon\n\n☎️ Phone: (220) 725 3921\n📧 Email: gibril.gabbidon@lshtm.ac.uk"
   }
 ]
