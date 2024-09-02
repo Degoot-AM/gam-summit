@@ -3,7 +3,7 @@ tbl-cap-location: bottom
 tbl-colwidths: [35,65]
 ---
 
-## Outbreak analytics with R - course {#pre-summit-training}
+## Outbreak analytics with R - training {#pre-summit-training}
 
 **Dates:** Monday 25 November to Friday 29 November 2024 (5 days)
 
@@ -15,23 +15,19 @@ tbl-colwidths: [35,65]
 
 This week-long in-person workshop provide a practical introduction to outbreak data analysis using R packages developed by the Epiverse-TRACE initiative.
 
-Fill out this [form to apply](https://forms.office.com/e/MdHMYMKmC7) for this training. Application deadline is **Friday 27th September**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymised form in Epiverse-TRACE outreach reports. If you have questions about the training, please send an email to [andree.valle-campos\@lshtm.ac.uk]() or [lshad35\@lshtm.ac.uk]().
 
-## Course content
+
+## Tentative course content
 
 ### Day 1
-
+-   Introduction to outbreak analytics and "Outbreak Data Challenges"
 -   Why use R packages for epidemic analytics?
--   How to import data into the R environment?
--   How to manipulate data in R?
--   How to perform visualization in R?
+-   How to manipulate data and perform visualizatio in R?
 
 ### Day 2
 
 -   How do I simulate disease spread using a mathematical model?
 -   How do I investigate the effect of interventions on disease trajectories?
--   How can we estimate final size of an epidemic?
-
 ### Day 3
 
 -   How to clean and standardize case data?
@@ -51,21 +47,19 @@ Fill out this [form to apply](https://forms.office.com/e/MdHMYMKmC7) for this tr
 -   How can we estimate individual-level variation in transmission (i.e. superspreading potential)?
 -   How can we simulate transmission chains based on infection characteristics?
 
-## Timetable
+## Timetable (tentative)
 
 |           Date and time           | Topic                                                                              |
 |:----------------------:|:----------------------------------------------|
-|   Monday 25 June (9:30 - 12:30)   | A refresher on the basics of R: data input, data subsetting, and data manipulation |
-|  Monday 25 June (14:00 - 17:00)   | A refresher on the basics of R: functions, visualization, and statistics           |
-|  Tuesday 26 June (9:30 - 12:30)   | Simulate disease spread                                                            |
-|  Tuesday 26 June (14:00 - 17:00)  | Simulate disease transmission with interventions                                   |
-| Wednesday 27 June (9:30 - 12:30)  | Read, clean, and standardize outbreak case data                                    |
-| Wednesday 27 June (14:00 - 17:00) | Validate, aggregate and visualize outbreak case data                               |
-|  Thursday 28 June (9:30 - 12:30)  | A primer on delay distributions and their usage in outbreak analytics              |
-| Thursday 28 June (14:00 - 17:00)  | Access epidemiological parameters and estimate transmission metrics                |
-|   Friday 29 June (9:30 - 12:30)   | Forecast of cases and estimate outbreak severity                                   |
-|  Friday 29 June (14:00 - 17:00)   | Estimate super spreading and simulate transmission chain                           |
-
+|   Monday 25 June (9:30 - 12:30)   | A refresher on the basics of R: objects, operators, function, arguments, data manipulation (read, filter, select, rename, pipe) |
+|  Monday 25 June (14:00 - 17:00)   | Introduction to outbreak analytics  |
+|  Tuesday 26 June (9:30 - 12:30)   | Simulating transmission and modelling interventions spread                                                            |
+|  Tuesday 26 June (14:00 - 17:00)  | Read, clean, and standardize outbreak case data    |
+| Wednesday 27 June (9:30 - 12:30)  | Validate, aggregate and visualize outbreak case data|
+| Wednesday 27 June (14:00 - 17:00) | Access epidemiological parameters |
+|  Thursday 28 June (9:30 - 12:30)  | Estimate transmission metrics |
+| Thursday 28 June (14:00 - 17:00)  | Forecast of cases and estimate outbreak severity|
+|   Friday 29 June (9:30 - 12:30)   | Presentations on "Outbreak Data Challenges" |
 ## Prerequisites
 
 Attendees will be using their own laptops. We expect participants to have some exposure to basic statistical, mathematical and epidemic theory concepts, but NOT necessarily familiarity with analytics or modelling. This workshop requires you to be familiar with:
@@ -73,3 +67,8 @@ Attendees will be using their own laptops. We expect participants to have some e
 -   **Data science**: Some basic familiarity with R software
 -   **Statistics**: Familiarity with common probability distributions, such as the Normal, Gamma, Log normal, and Negative binomial distributions.
 -   **Epidemic theory**: Familiarity with common epidemiological parameters, such as the incubation period, generation time, serial interval, and metrics such as the reproduction number.
+
+
+## Application 
+
+Fill out this [form to apply](https://forms.office.com/e/MdHMYMKmC7) for this training. Application deadline is **Friday 27th September**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymised form in Epiverse-TRACE outreach reports. If you have questions about the training, please send an email to [andree.valle-campos\@lshtm.ac.uk]() or [lshad35\@lshtm.ac.uk]().
