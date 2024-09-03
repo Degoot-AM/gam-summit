@@ -62,7 +62,7 @@ This week-long in-person workshop provide a practical introduction to outbreak d
 |   Friday 29 June (9:30 - 12:30)   | Presentations on "Outbreak Data Challenges" |
 ## Prerequisites
 
-Attendees will be using their own laptops. We expect participants to have some exposure to basic statistical, mathematical and epidemic theory concepts, but NOT necessarily familiarity with analytics or modelling. This workshop requires you to be familiar with:
+Attendees will be using their own laptops. We expect participants to have some exposure to basic statistical, mathematical and epidemic theory concepts, but NOT necessarily familiarity with analytics or modelling. This training requires you to be familiar with:
 
 -   **Data science**: Some basic familiarity with R software
 -   **Statistics**: Familiarity with common probability distributions, such as the Normal, Gamma, Log normal, and Negative binomial distributions.
