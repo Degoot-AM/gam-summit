@@ -10,7 +10,7 @@ website:
     right:
         - text: "Programme"
           href: programme.qmd
-        - text: "Pre-summit Training"
+        - text: "Pre-Summit Training"
           href: pre-training.qmd
         - text: "Travel Information"
           href: travel.qmd
