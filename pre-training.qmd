@@ -3,33 +3,30 @@ tbl-cap-location: bottom
 tbl-colwidths: [35,65]
 ---
 
-## Outbreak analytics with R - training {#pre-summit-training}
+## Outbreak Analytics with R - Training {#pre-summit-training}
 
 **Dates:** Monday 25 November to Friday 29 November 2024 (5 days)
 
 **Times:** 9:30-12:30 and 14:00 - 17:00
 
-**Location:** F1 seminar room in MRCG, Banjul, The Gambia
+**Location:** F1 seminar room in MRCG, Fajara
 
 ### Overview:
 
-This week-long in-person workshop provide a practical introduction to outbreak data analysis using R packages developed by the Epiverse-TRACE initiative.
+This week-long in-person training provides a practical introduction to outbreak data analysis using R packages developed by the Epiverse-TRACE initiative.
 
-
-
-## Tentative course content
+## Course Content (Tentative)
 
 ### Day 1
 
--   Introduction to outbreak analytics and "Outbreak Data Challenges"
+-   Introduction to outbreak analytics and "Outbreak Data Challenges".
 -   Why use R packages for epidemic analytics?
--   How to manipulate data and perform visualizatio in R?
+-   How to manipulate data and perform visualization in R?
 
 ### Day 2
 
 -   How do I simulate disease spread using a mathematical model?
 -   How do I investigate the effect of interventions on disease trajectories?
-
 
 ### Day 3
 
@@ -50,29 +47,28 @@ This week-long in-person workshop provide a practical introduction to outbreak d
 -   How can we estimate individual-level variation in transmission (i.e. superspreading potential)?
 -   How can we simulate transmission chains based on infection characteristics?
 
-## Timetable (tentative)
+## Timetable (Tentative)
 
-|           Date and time           | Topic                                                                              |
-|:----------------------:|:----------------------------------------------|
-|   Monday 25 June (9:30 - 12:30)   | A refresher on the basics of R: objects, operators, function, arguments, data manipulation (read, filter, select, rename, pipe) |
-|  Monday 25 June (14:00 - 17:00)   | Introduction to outbreak analytics  |
-|  Tuesday 26 June (9:30 - 12:30)   | Simulating transmission and modelling interventions spread                                                            |
-|  Tuesday 26 June (14:00 - 17:00)  | Read, clean, and standardize outbreak case data    |
-| Wednesday 27 June (9:30 - 12:30)  | Validate, aggregate and visualize outbreak case data|
-| Wednesday 27 June (14:00 - 17:00) | Access epidemiological parameters |
-|  Thursday 28 June (9:30 - 12:30)  | Estimate transmission metrics |
-| Thursday 28 June (14:00 - 17:00)  | Forecast of cases and estimate outbreak severity|
-|   Friday 29 June (9:30 - 12:30)   | Presentations on "Outbreak Data Challenges" |
+|             Date and Time             | Topic                                                                                                                            |
+|:-----------------------:|:----------------------------------------------|
+|   Monday 25 November (9:30 - 12:30)   | A Refresher on the Basics of R: Objects, operators, functions, arguments, data manipulation (read, filter, select, rename, pipe) |
+|  Monday 25 November (14:00 - 17:00)   | Introduction to Outbreak Analytics                                                                                               |
+|  Tuesday 26 November (9:30 - 12:30)   | Simulating Transmission and Modelling Interventions Spread                                                                       |
+|  Tuesday 26 November (14:00 - 17:00)  | Read, Clean, and Standardize Outbreak Case Data                                                                                  |
+|  Wednesday 27 November(9:30 - 12:30)  | Validate, Aggregate and Visualize Outbreak Case Data                                                                             |
+| Wednesday 27 November (14:00 - 17:00) | Access Epidemiological Parameters                                                                                                |
+|  Thursday 28 November (9:30 - 12:30)  | Estimate Transmission Metrics                                                                                                    |
+| Thursday 28 November (14:00 - 17:00)  | Forecast of Cases and Estimate Outbreak Severity                                                                                 |
+|   Friday 29 November (9:30 - 12:30)   | Presentations on "Outbreak Data Challenges"                                                                                      |
+
 ## Prerequisites
 
 Attendees will be using their own laptops. We expect participants to have some exposure to basic statistical, mathematical and epidemic theory concepts, but NOT necessarily familiarity with analytics or modelling. This training requires you to be familiar with:
 
--   **Data science**: Some basic familiarity with R software
+-   **Data Science**: Some basic familiarity with R software
 -   **Statistics**: Familiarity with common probability distributions, such as the Normal, Gamma, Log normal, and Negative binomial distributions.
--   **Epidemic theory**: Familiarity with common epidemiological parameters, such as the incubation period, generation time, serial interval, and metrics such as the reproduction number.
+-   **Epidemic Theory**: Familiarity with common epidemiological parameters, such as the incubation period, generation time, serial interval, and metrics such as the reproduction number.
 
+## Application
 
-## Application 
-
-Fill out this [form to apply](https://forms.office.com/e/MdHMYMKmC7) for this training. Application deadline is **Friday 20th September 2024**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymised form in Epiverse-TRACE outreach reports. If you have questions about the training, please send an email to [andree.valle-campos\@lshtm.ac.uk]() or [lshad35\@lshtm.ac.uk]().
-
+Fill out this [form to apply](https://forms.office.com/e/MdHMYMKmC7) for this training. Application deadline is **Friday 20th September 2024**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymity form in Epiverse-TRACE outreach reports. If you have questions about the training, please send an email to [andree.valle-campos\@lshtm.ac.uk]() or [lshad35\@lshtm.ac.uk]().
