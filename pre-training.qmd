@@ -49,17 +49,17 @@ This week-long in-person training provides a practical introduction to outbreak 
 
 ## Timetable (Tentative)
 
-|             Date and Time             | Topic                                                                                                                            |
+|             Date and Time             | Topic                                                                                                                             |
 |:-----------------------:|:----------------------------------------------|
-|   Monday 25 November (9:30 - 12:30)   | A Refresher on the Basics of R: Objects, operators, functions, arguments, data manipulation (read, filter, select, rename, pipe) |
-|  Monday 25 November (14:00 - 17:00)   | Introduction to Outbreak Analytics                                                                                               |
-|  Tuesday 26 November (9:30 - 12:30)   | Simulating Transmission and Modelling Interventions Spread                                                                       |
-|  Tuesday 26 November (14:00 - 17:00)  | Read, Clean, and Standardize Outbreak Case Data                                                                                  |
-|  Wednesday 27 November(9:30 - 12:30)  | Validate, Aggregate and Visualize Outbreak Case Data                                                                             |
-| Wednesday 27 November (14:00 - 17:00) | Access Epidemiological Parameters                                                                                                |
-|  Thursday 28 November (9:30 - 12:30)  | Estimate Transmission Metrics                                                                                                    |
-| Thursday 28 November (14:00 - 17:00)  | Forecast of Cases and Estimate Outbreak Severity                                                                                 |
-|   Friday 29 November (9:30 - 12:30)   | Presentations on "Outbreak Data Challenges"                                                                                      |
+|   Monday 25 November (9:30 - 12:30)   | A Refresher on the Basics of R: Objects, Operators, Functions, Arguments, Data Manipulation (read, filter, select, rename & pipe) |
+|  Monday 25 November (14:00 - 17:00)   | Introduction to Outbreak Analytics                                                                                                |
+|  Tuesday 26 November (9:30 - 12:30)   | Simulating Transmission and Modelling Interventions Spread                                                                        |
+|  Tuesday 26 November (14:00 - 17:00)  | Read, Clean, and Standardize Outbreak Case Data                                                                                   |
+| Wednesday 27 November (9:30 - 12:30)  | Validate, Aggregate and Visualize Outbreak Case Data                                                                              |
+| Wednesday 27 November (14:00 - 17:00) | Access Epidemiological Parameters                                                                                                 |
+|  Thursday 28 November (9:30 - 12:30)  | Estimate Transmission Metrics                                                                                                     |
+| Thursday 28 November (14:00 - 17:00)  | Forecast of Cases and Estimate Outbreak Severity                                                                                  |
+|   Friday 29 November (9:30 - 12:30)   | Presentations on "Outbreak Data Challenges"                                                                                       |
 
 ## Prerequisites
 

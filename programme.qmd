@@ -23,7 +23,7 @@ Day 1 will be focused on the presentation of the project perspectives, particula
 
 **Moderators**:
 
-Bubacarr and Maguette(TBC)
+Bubacarr & Maguette(TBC)
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
@@ -153,7 +153,7 @@ On this last day, participants will bring in their thoughts on how to design a d
 
 **Moderators**:
 
-Andree, Degoot and Zulma
+Andree, Degoot & Zulma
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
