@@ -9,7 +9,7 @@ tbl-colwidths: [35,65]
 
 **Times:** 9:30-12:30 and 14:00 - 17:00
 
-**Location:** F1 seminar room in MRCG
+**Location:** F1 seminar room in MRCG, Banjul, The Gambia
 
 ### Overview:
 
@@ -71,4 +71,4 @@ Attendees will be using their own laptops. We expect participants to have some e
 
 ## Application 
 
-Fill out this [form to apply](https://forms.office.com/e/MdHMYMKmC7) for this training. Application deadline is **Friday 27th September**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymised form in Epiverse-TRACE outreach reports. If you have questions about the training, please send an email to [andree.valle-campos\@lshtm.ac.uk]() or [lshad35\@lshtm.ac.uk]().
+Fill out this [form to apply](https://forms.office.com/e/MdHMYMKmC7) for this training. Application deadline is **Friday 20th September 2024**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymised form in Epiverse-TRACE outreach reports. If you have questions about the training, please send an email to [andree.valle-campos\@lshtm.ac.uk]() or [lshad35\@lshtm.ac.uk]().
