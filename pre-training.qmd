@@ -50,7 +50,7 @@ This week-long in-person training provides a practical introduction to outbreak 
 ## Timetable (Tentative)
 
 |             Date and Time             | Topic                                                                                                                             |
-|:-----------------------:|:----------------------------------------------|
+|:-------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------|
 |   Monday 25 November (9:30 - 12:30)   | A Refresher on the Basics of R: Objects, Operators, Functions, Arguments, Data Manipulation (read, filter, select, rename & pipe) |
 |  Monday 25 November (14:00 - 17:00)   | Introduction to Outbreak Analytics                                                                                                |
 |  Tuesday 26 November (9:30 - 12:30)   | Simulating Transmission and Modelling Interventions Spread                                                                        |
