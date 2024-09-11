@@ -49,9 +49,9 @@ The first Epiverse-TRACE summit was held in London, UK, from the 12th to 14th of
 
 1.  *Sharing Experiences of Outbreak Responses*
 
-2.  *Identifying the Challenges and Questions during Outbreaks*.
+2.  *Identifying the Challenges and Questions during Outbreaks*
 
-3.  *Building Collaboration and Pipelines*.
+3.  *Building Collaboration and Pipelines*
 
 The details of the outcomes from these three-day discussions are summarised in this [blog post](https://epiverse-trace.github.io/posts/100days-workshop/index.html).
 :::
