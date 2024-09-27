@@ -12,6 +12,8 @@ format: dashboard
 
 Day 1 will be focused on the presentation of the project perspectives, particularly the planning for its second phase. Attendees will have the opportunity to discuss and review the draft planning document prepared by the PIs.
 
+__Venue__: [Sir Dawda Kairaba Jawara International Conference Center](https://www.oicgambia.org/sdkj-icc), Serrekunda.
+
 **Objectives**:
 
 -   Opening of the summit.
@@ -44,6 +46,8 @@ day_1_agenda |>
 **Inclusivity and Sustainability of Epiverse-TRACE Tools**
 
 Day 2 aims at evaluating phase 1 of the project and discussing the inclusivity and sustainability of the project tools.
+
+__Venue__: Bray conference room, MRCG
 
 **Objectives:**
 
@@ -106,6 +110,9 @@ Participation in any of these activities is optional.
 
 The sessions on this day will be focused on how the Epiverse-TRACE analytics tools can be applied beyond infectious diseases. Discussions will cover their usage in the context of small-scale local outbreaks, neglected tropical diseases (NTDs), one health perspectives, and in disease surveillance.
 
+__Venue__: Bray conference room, MRCG 
+
+
 **Objectives**:
 
 -   Explore how Epiverse-TRACE tools can be adapted for small-scale local outbreaks and neglected tropical diseases.
@@ -140,6 +147,9 @@ day_5_agenda |>
 **Outbreak Analytics Course**
 
 On this last day, participants will bring in their thoughts on how to design a data-centered outbreak analytics course aimed at training and teaching outbreak analysis. It will also reflect on the lessons learnt from previous trainings and identify current gaps within the project and explore ways to overcome them.
+
+__Venue__: Bray conference room  & F1 Seminar room, MRCG 
+
 
 **Objectives**:
 
