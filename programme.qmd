@@ -12,7 +12,7 @@ format: dashboard
 
 Day 1 will be focused on the presentation of the project perspectives, particularly the planning for its second phase. Attendees will have the opportunity to discuss and review the draft planning document prepared by the PIs.
 
-__Venue__: [Sir Dawda Kairaba Jawara International Conference Center](https://www.oicgambia.org/sdkj-icc), Serrekunda.
+**Venue**: [Sir Dawda Kairaba Jawara International Conference Center](https://www.oicgambia.org/sdkj-icc), Serrekunda.
 
 **Objectives**:
 
@@ -25,14 +25,14 @@ __Venue__: [Sir Dawda Kairaba Jawara International Conference Center](https://ww
 
 **Moderators**:
 
-Bubacarr & Maguette(TBC)
+Bubacarr & Uyi
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
 day_1_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:00",  "12:00-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Welcome and Registration", "Opening Ceremony and Launching of Phase 2 (Epiverse-TRACE project)", "Coffee Break", "Ice Breaker", "Planning for Phase 2 Implementation", "Lunch", "RF & RSE Sessions", "Dinner"),
-  Speakers = c("-", "Dr Bubacarr Bah, Pro Umberto D'Alessandro, Data.org (TBC), & MoH (TBC)", "", "Banky", "Data.org (TBC)", "", "Degoot & James", "")
+  Activity = c("Welcome and Registration", "Opening Ceremony and Launching of Phase 2 (Epiverse-TRACE project)", "Coffee Break", "Ice Breaker", "Data.rog related activities", "Lunch", "RF & RSE Sessions", "Dinner"),
+  Speakers = c("-", "Dr Bubacarr Bah, Pro Umberto D'Alessandro, Paul Kiror & MoH ", "", "Banky", "Uyi", "", "Degoot & James", "")
 )
 
 day_1_agenda |>
@@ -47,7 +47,7 @@ day_1_agenda |>
 
 Day 2 aims at evaluating phase 1 of the project and discussing the inclusivity and sustainability of the project tools.
 
-__Venue__: Bray conference room, MRCG
+**Venue**: Bray conference room, MRCG
 
 **Objectives:**
 
@@ -67,13 +67,13 @@ __Venue__: Bray conference room, MRCG
 
 **Moderators:**
 
-Nuredin & Diana
+Nuredin, Diana & Natalia
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
 day_2_agenda <- data.frame(
-  Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-13:0", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Lessons Learnt and Gaps", "Inclusivity and Sustainability of Epidemics Analytic Tools", "Coffee Break", "Inclusivity and Sustainability within Epiverse-TRACE Tools", "Lunch", "RF & RSE Sessions", "Dinner"),
+  Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
+  Activity = c("Lessons Learnt and Gaps", "Sustainability of Epidemics Analytic Tools", "Coffee Break", "Inclusivity  within Epiverse-TRACE Tools", "Lunch", "RF & RSE Sessions", "Dinner"),
   Speakers = c("Groups Discussion", "Expert Presentation", "", "Groups Discussion", "", "Degoot & James", "")
 )
 day_2_agenda |>
@@ -110,8 +110,7 @@ Participation in any of these activities is optional.
 
 The sessions on this day will be focused on how the Epiverse-TRACE analytics tools can be applied beyond infectious diseases. Discussions will cover their usage in the context of small-scale local outbreaks, neglected tropical diseases (NTDs), one health perspectives, and in disease surveillance.
 
-__Venue__: Bray conference room, MRCG 
-
+**Venue**: Bray conference room, MRCG
 
 **Objectives**:
 
@@ -126,7 +125,7 @@ __Venue__: Bray conference room, MRCG
 
 **Moderators**:
 
-Natalia, Bubacarr & Adam
+Zulma, Bubacarr & Adam
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
@@ -148,8 +147,7 @@ day_5_agenda |>
 
 On this last day, participants will bring in their thoughts on how to design a data-centered outbreak analytics course aimed at training and teaching outbreak analysis. It will also reflect on the lessons learnt from previous trainings and identify current gaps within the project and explore ways to overcome them.
 
-__Venue__: Bray conference room  & F1 Seminar room, MRCG 
-
+**Venue**: Bray conference room & F1 Seminar room, MRCG
 
 **Objectives**:
 
@@ -159,18 +157,18 @@ __Venue__: Bray conference room  & F1 Seminar room, MRCG
 **Expected Outcomes**:
 
 -   Draft course framework: A preliminary framework for the outbreak analytics course, including key topics, teaching methods, and assessment strategies.
--   Plans to address the gaps, with specific implementation steps
+-   Plans to address the gaps, with specific implementation steps.
 
 **Moderators**:
 
-Andree, Degoot & Zulma
+Andree, Degoot & Laura
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
 day_4_agenda <- data.frame(
   Time = c("09:00-11:00", "11:00-11:30", "11:30-12:00", "12:00-13:00", "13:00-15:00", "19:00-21:00"),
   Activity = c("Designing Outbreak Analytics Course", "Coffee Break", "Closing Remarks", "Unit Seminar", "Lunch", "Dinner"),
-  Speakers = c("Groups Discussion", "", "Bubacarr Bah", "Presentation by one of our PIs", "", "")
+  Speakers = c("Groups Discussion", "", "Bubacarr Bah", "Presentation by  Sebastain Funk", "", "")
 )
 
 day_4_agenda |>

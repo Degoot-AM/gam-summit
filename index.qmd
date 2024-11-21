@@ -2,17 +2,17 @@
 
 ![](./images/banjul.webp){fig-align="center" width="100%" height="10%"}
 
-Powered by [Data.org](https://data.org/), the [Epiverse-TRACE](https://data.org/initiatives/epiverse/) project has made substantial progress toward producing analytics tools aimed at addressing the most critical questions during epidemics. Currently, up to **eight (8)** [Epiverse-TRACE packages](https://epiverse-trace.github.io/etstats/articles/cran-statistics.html) are available on [CRAN](https://cran.r-project.org/), with about **twenty (20)** more under active development. This reflects the results of two years of joint efforts between team members and our user communities.
+Powered by [Data.org](https://data.org/), the [Epiverse-TRACE](https://data.org/initiatives/epiverse/) project has made substantial progress toward producing analytics tools aimed at addressing the most critical questions during epidemics. Currently, up to **nine (9)** [Epiverse-TRACE packages](https://epiverse-trace.github.io/etstats/articles/cran-statistics.html) are available on [CRAN](https://cran.r-project.org/), with about **twenty (20)** more under active development. This reflects the results of two years of joint efforts between team members and our user communities.
 
 Every year, the Epiverse-TRACE team members, along with invited stakeholders from WHO, Data.org, and various healthcare organizations, convene to discuss progress, evaluate deliverables, and plan future activities. The third Epiverse-TRACE annual summit will be held at the MRC Unit in Fajara, The Gambia from **December 2 to 6, 2024**, under the theme: **Strengthening Sustainable and Inclusive Analytics Ecosystem for Epidemic Preparedness**.
 
-The organising committees of this event, composed of members from the different Epiverse teams, have developed the summit's program to ensure the success of the event. This includes a pre-summit training session happening a week before the summit (25 - 29 November 2024). The training will be conducted by our team of Research Fellows (RFs), supported by Research Software Engineers (RSEs). Participants will learn how to use our tools within an outbreak analysis workflow.
+The organizing committees of this event, composed of members from the different Epiverse teams, have developed the summit's program to ensure the success of the event. This includes a pre-summit training workshop scheduled to be held a week before the summit (25 - 29 November 2024). The training will be conducted by our team of Research Fellows (RFs), supported by Research Software Engineers (RSEs). Participants will learn how to use our tools within an outbreak analysis workflow.
 
 ## Previous Summits {.unnumbered .unlisted}
 
 ### Collaborative Software Development Ecosystem for Public Health
 
-::: columns
+:::::: columns
 ::: {.column width="55%"}
 The second Epiverse-TRACE summit was held in **Bogota, Colombia**, from the 26th to 29th of June 2023. The participants were given the opportunity to bring their thoughts on the following topics:
 
@@ -33,13 +33,13 @@ The outcomes from these fruitful discussions are summarised in the [report](http
 ::: {.column width="40%"}
 ![](./images/team_engage.JPG){fig-align="center" width="100%" height="100%"}
 :::
-:::
+::::::
 
 ------------------------------------------------------------------------
 
 ### 100 days and 100 lines of code
 
-::: columns
+::::: columns
 ::: {.column width="40%"}
 ![](./images/lshtm_logo2.png){fig-align="center" width="100%"}
 :::
@@ -55,4 +55,4 @@ The first Epiverse-TRACE summit was held in London, UK, from the 12th to 14th of
 
 The details of the outcomes from these three-day discussions are summarised in this [blog post](https://epiverse-trace.github.io/posts/100days-workshop/index.html).
 :::
-:::
+:::::
