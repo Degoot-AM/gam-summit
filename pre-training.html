@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.30">
+<meta name="generator" content="quarto-1.6.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-3a01e2046221230fdceeea94b1ec5d67.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-db534d43c445ab2761e50f14b103c45f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6a9af0302367261a74783e1ec06a159f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -135,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
@@ -195,51 +195,51 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="timetable-tentative" class="level2">
 <h2 class="anchored" data-anchor-id="timetable-tentative">Timetable (Tentative)</h2>
-<table>
+<table class="table">
 <colgroup>
 <col style="width: 35%">
 <col style="width: 65%">
 </colgroup>
 <thead>
-<tr>
+<tr class="header">
 <th style="text-align: center;">Date and Time</th>
 <th style="text-align: left;">Topic</th>
 </tr>
 </thead>
 <tbody>
-<tr>
+<tr class="odd">
 <td style="text-align: center;">Monday 25 November (9:30 - 12:30)</td>
 <td style="text-align: left;">A Refresher on the Basics of R: Objects, Operators, Functions, Arguments, Data Manipulation (read, filter, select, rename &amp; pipe)</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: center;">Monday 25 November (14:00 - 17:00)</td>
 <td style="text-align: left;">Introduction to Outbreak Analytics</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: center;">Tuesday 26 November (9:30 - 12:30)</td>
 <td style="text-align: left;">Simulating Transmission and Modelling Interventions Spread</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: center;">Tuesday 26 November (14:00 - 17:00)</td>
 <td style="text-align: left;">Read, Clean, and Standardize Outbreak Case Data</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: center;">Wednesday 27 November (9:30 - 12:30)</td>
 <td style="text-align: left;">Validate, Aggregate and Visualize Outbreak Case Data</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: center;">Wednesday 27 November (14:00 - 17:00)</td>
 <td style="text-align: left;">Access Epidemiological Parameters</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: center;">Thursday 28 November (9:30 - 12:30)</td>
 <td style="text-align: left;">Estimate Transmission Metrics</td>
 </tr>
-<tr>
+<tr class="even">
 <td style="text-align: center;">Thursday 28 November (14:00 - 17:00)</td>
 <td style="text-align: left;">Forecast of Cases and Estimate Outbreak Severity</td>
 </tr>
-<tr>
+<tr class="odd">
 <td style="text-align: center;">Friday 29 November (9:30 - 12:30)</td>
 <td style="text-align: left;">Presentations on “Outbreak Data Challenges”</td>
 </tr>
@@ -345,8 +345,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -457,7 +455,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

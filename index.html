@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.30">
+<meta name="generator" content="quarto-1.6.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-3a01e2046221230fdceeea94b1ec5d67.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-db534d43c445ab2761e50f14b103c45f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6a9af0302367261a74783e1ec06a159f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -125,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
@@ -137,9 +137,9 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="./images/banjul.webp" class="quarto-figure quarto-figure-center figure-img" style="width:100.0%;height:10.0%"></p>
 </figure>
 </div>
-<p>Powered by <a href="https://data.org/">Data.org</a>, the <a href="https://data.org/initiatives/epiverse/">Epiverse-TRACE</a> project has made substantial progress toward producing analytics tools aimed at addressing the most critical questions during epidemics. Currently, up to <strong>eight (8)</strong> <a href="https://epiverse-trace.github.io/etstats/articles/cran-statistics.html">Epiverse-TRACE packages</a> are available on <a href="https://cran.r-project.org/">CRAN</a>, with about <strong>twenty (20)</strong> more under active development. This reflects the results of two years of joint efforts between team members and our user communities.</p>
+<p>Powered by <a href="https://data.org/">Data.org</a>, the <a href="https://data.org/initiatives/epiverse/">Epiverse-TRACE</a> project has made substantial progress toward producing analytics tools aimed at addressing the most critical questions during epidemics. Currently, up to <strong>nine (9)</strong> <a href="https://epiverse-trace.github.io/etstats/articles/cran-statistics.html">Epiverse-TRACE packages</a> are available on <a href="https://cran.r-project.org/">CRAN</a>, with about <strong>twenty (20)</strong> more under active development. This reflects the results of two years of joint efforts between team members and our user communities.</p>
 <p>Every year, the Epiverse-TRACE team members, along with invited stakeholders from WHO, Data.org, and various healthcare organizations, convene to discuss progress, evaluate deliverables, and plan future activities. The third Epiverse-TRACE annual summit will be held at the MRC Unit in Fajara, The Gambia from <strong>December 2 to 6, 2024</strong>, under the theme: <strong>Strengthening Sustainable and Inclusive Analytics Ecosystem for Epidemic Preparedness</strong>.</p>
-<p>The organising committees of this event, composed of members from the different Epiverse teams, have developed the summit’s program to ensure the success of the event. This includes a pre-summit training session happening a week before the summit (25 - 29 November 2024). The training will be conducted by our team of Research Fellows (RFs), supported by Research Software Engineers (RSEs). Participants will learn how to use our tools within an outbreak analysis workflow.</p>
+<p>The organizing committees of this event, composed of members from the different Epiverse teams, have developed the summit’s program to ensure the success of the event. This includes a pre-summit training workshop scheduled to be held a week before the summit (25 - 29 November 2024). The training will be conducted by our team of Research Fellows (RFs), supported by Research Software Engineers (RSEs). Participants will learn how to use our tools within an outbreak analysis workflow.</p>
 <section id="previous-summits" class="level2 unnumbered unlisted">
 <h2 class="unnumbered unlisted anchored" data-anchor-id="previous-summits">Previous Summits</h2>
 <section id="collaborative-software-development-ecosystem-for-public-health" class="level3">
@@ -274,8 +274,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -386,7 +384,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
