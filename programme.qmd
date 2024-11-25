@@ -31,8 +31,8 @@ Bubacarr & Uyi
 #| classes: plain
 day_1_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:00",  "12:00-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Welcome and Registration", "Opening Ceremony and Launching of Phase 2 (Epiverse-TRACE project)", "Coffee Break", "Ice Breaker", "Data.rog related activities", "Lunch", "RF & RSE Sessions", "Dinner"),
-  Speakers = c("-", "Dr Bubacarr Bah, Pro Umberto D'Alessandro, Paul Kiror & MoH ", "", "Banky", "Uyi", "", "Degoot & James", "")
+  Activity = c("Welcome and Registration", "Opening Ceremony and Launching of Phase 2 (Epiverse-TRACE project)", "Coffee Break", "Ice Breaker", "Data.org related activities", "Lunch", "RF & RSE Sessions", "Dinner"),
+  Speakers = c("-", "Dr Bubacarr Bah, Prof Umberto D'Alessandro, Paul Korir & MoH ", "", "Banky", "Uyi", "", "Degoot & James", "")
 )
 
 day_1_agenda |>
@@ -102,7 +102,7 @@ Participation in any of these activities is optional.
 
 #### Column
 
-![](./images/boat_ride.avif){fig-align="center" width="100%" hight="110%"}
+![](./images/boat_ride.avif){fig-align="center" width="100%" height="110%"}
 
 ### Thursday
 
@@ -168,7 +168,7 @@ Andree, Degoot & Laura
 day_4_agenda <- data.frame(
   Time = c("09:00-11:00", "11:00-11:30", "11:30-12:00", "12:00-13:00", "13:00-15:00", "19:00-21:00"),
   Activity = c("Designing Outbreak Analytics Course", "Coffee Break", "Closing Remarks", "Unit Seminar", "Lunch", "Dinner"),
-  Speakers = c("Groups Discussion", "", "Bubacarr Bah", "Presentation by  Sebastain Funk", "", "")
+  Speakers = c("Groups Discussion", "", "Bubacarr Bah", "Presentation by Sebastian Funk", "", "")
 )
 
 day_4_agenda |>
