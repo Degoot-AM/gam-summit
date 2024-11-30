@@ -67,7 +67,7 @@ Day 2 aims at evaluating phase 1 of the project and discussing the inclusivity a
 
 **Moderators:**
 
-Seb, Natalia & Nuredin
+Seb, Natalia & Diana
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
@@ -125,7 +125,7 @@ The sessions on this day will be focused on how the Epiverse-TRACE analytics too
 
 **Moderators**:
 
-Diana, Zulma, Adam & Bubacarr
+Zulma, Adam & Nuredin
 
 ```{r eval=TRUE, echo = FALSE}
 #| classes: plain
