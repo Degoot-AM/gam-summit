@@ -32,7 +32,7 @@ Bubacarr & Uyi
 day_1_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:00",  "12:00-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
   Activity = c("Welcome and Registration", "Opening Ceremony and Launching of Phase 2 (Epiverse-TRACE project)", "Coffee Break", "Ice Breaker", "Data.org related activities", "Lunch", "RF & RSE Sessions", "Dinner"),
-  Speakers = c("-", "Dr Bubacarr Bah, Prof Umberto D'Alessandro, Paul Korir & MoH ", "", "Banky", "Uyi", "", "Degoot & James", "")
+  Speakers = c("-", "Dr Bubacarr Bah, Prof Umberto D'Alessandro & MoH representative ", "", "Banky", "Uyi", "", "Degoot & James", "")
 )
 
 day_1_agenda |>
