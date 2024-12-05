@@ -131,7 +131,7 @@ Zulma, Adam & Nuredin
 #| classes: plain
 day_5_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Local Outbreaks", "NTDs", "Coffee Break", "One Health", "Disease Surveillance",  "Lunch Break", "RF/RSE Sessions", "Dinner"),
+  Activity = c("Local Outbreaks", "NTDs", "Coffee Break", "One Health", "Disease Surveillance",  "Lunch Break", "RF/RSE Sessions", " "),
   Speakers = c(" Groups Discussion", "Groups Discussion", "", "Groups Discussion", "Groups Discussion", "At Spice Hub", "Degoot & James", "")
 )
 
@@ -167,8 +167,8 @@ Andree, Degoot & Laura
 #| classes: plain
 day_4_agenda <- data.frame(
   Time = c("09:00-11:00", "11:00-11:30", "11:30-12:00", "12:00-13:00", "13:00-15:00", "19:00-21:00"),
-  Activity = c("Designing Outbreak Analytics Course", "Coffee Break", "Closing Remarks", "Unit Seminar", "Lunch", "Dinner"),
-  Speakers = c("Groups Discussion", "", "Bubacarr Bah", "Presentation by Adam/Zulma", "", "")
+  Activity = c("Designing Outbreak Analytics Course", "Coffee Break", "Closing Remarks", " ", "", " "),
+  Speakers = c("Groups Discussion", "", "Bubacarr Bah", "", "", "")
 )
 
 day_4_agenda |>
